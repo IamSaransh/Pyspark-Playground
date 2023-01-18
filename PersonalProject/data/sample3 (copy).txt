@@ -1,0 +1,18 @@
+17/06/09 20:10:54 ERROR python.PythonRunner: Times: total = 38, boot = 17, init = 21, finish = 0
+17/06/09 20:10:54 ERROR python.PythonRunner: Times: total = 41, boot = 28, init = 13, finish = 0
+17/06/09 20:10:54 ERROR python.PythonRunner: Times: total = 38, boot = 18, init = 20, finish = 0
+17/06/09 20:10:54 ERROR python.PythonRunner: Times: total = 40, boot = 19, init = 21, finish = 0
+17/06/09 20:10:54 ERROR python.PythonRunner: Times: total = 41, boot = 17, init = 24, finish = 0
+17/06/09 20:10:54 ERROR executor.Executor: Finished task 0.0 in stage 7.0 (TID 285). 2667 bytes result sent to driver
+17/06/09 20:10:54 ERROR executor.Executor: Finished task 3.0 in stage 7.0 (TID 318). 2667 bytes result sent to driver
+17/06/09 20:10:54 ERROR executor.Executor: Finished task 4.0 in stage 7.0 (TID 319). 2667 bytes result sent to driver
+17/06/09 20:10:54 ERROR executor.Executor: Finished task 1.0 in stage 7.0 (TID 299). 2667 bytes result sent to driver
+17/06/09 20:10:54 ERROR executor.Executor: Finished task 2.0 in stage 7.0 (TID 312). 2667 bytes result sent to driver
+17/06/09 20:10:54 ERROR executor.CoarseGrainedExecutorBackend: Got assigned task 321
+17/06/09 20:10:54 ERROR executor.Executor: Running task 0.0 in stage 8.0 (TID 321)
+17/06/09 20:10:54 ERROR executor.CoarseGrainedExecutorBackend: Got assigned task 335
+17/06/09 20:10:54 ERROR executor.Executor: Running task 1.0 in stage 8.0 (TID 335)
+17/06/09 20:10:54 ERROR executor.CoarseGrainedExecutorBackend: Got assigned task 349
+17/06/09 20:10:54 ERROR executor.Executor: Running task 2.0 in stage 8.0 (TID 349)
+17/06/09 20:10:54 ERROR broadcast.TorrentBroadcast: Started reading broadcast variable 17
+17/06/09 20:10:5
